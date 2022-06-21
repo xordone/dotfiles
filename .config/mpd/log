@@ -1,0 +1,620 @@
+Sep 10 09:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:11 : exception: Failed to access /home/pxl/Music: No such file or directory
+Sep 10 09:12 : client: [0] opened from [::1]:46472
+Sep 10 09:12 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Sep 10 09:12 : client: [0] closed
+Sep 10 09:12 : client: [1] opened from [::1]:46474
+Sep 10 09:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:12 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 10 09:13 : client: [1] closed
+Sep 10 09:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:15 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Sep 10 09:15 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Sep 10 09:15 : player: problems opening audio device while playing "https://i-radio.info:8055/radio"
+Sep 10 09:15 : player: played "https://i-radio.info:8055/radio"
+Sep 10 09:16 : client: [2] opened from [::1]:46480
+Sep 10 09:16 : player: played "https://i-radio.info:8055/radio"
+Sep 10 09:16 : client: [2] closed
+Sep 10 09:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:16 : client: [3] opened from [::1]:46482
+Sep 10 09:16 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 10 09:16 : client: [3] closed
+Sep 10 09:16 : client: [4] opened from [::1]:46486
+Sep 10 09:16 : player: played "https://i-radio.info:8055/radio"
+Sep 10 09:16 : client: [4] closed
+Sep 10 09:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:17 : client: [5] opened from [::1]:46488
+Sep 10 09:17 : client: [5] closed
+Sep 10 09:18 : exception: Failed to commit /home/pxl/.config/mpd/state: File exists
+Sep 10 09:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:18 : client: [0] opened from [::1]:46490
+Sep 10 09:18 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 10 09:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:18 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": No such file or directory
+Sep 10 09:18 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": No such file or directory
+Sep 10 09:18 : player: problems opening audio device while playing "https://i-radio.info:8055/radio"
+Sep 10 09:18 : client: [0] closed
+Sep 10 09:19 : client: [1] opened from [::1]:46494
+Sep 10 09:19 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": No such file or directory
+Sep 10 09:19 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": No such file or directory
+Sep 10 09:19 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": No such file or directory
+Sep 10 09:19 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": No such file or directory
+Sep 10 09:19 : player: played "https://i-radio.info:8055/radio"
+Sep 10 09:19 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": No such file or directory
+Sep 10 09:19 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": No such file or directory
+Sep 10 09:19 : player: problems opening audio device while playing "https://i-radio.info:8055/radio"
+Sep 10 09:19 : player: played "https://i-radio.info:8055/radio"
+Sep 10 09:19 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": No such file or directory
+Sep 10 09:19 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": No such file or directory
+Sep 10 09:19 : player: problems opening audio device while playing "https://i-radio.info:8055/radio"
+Sep 10 09:19 : client: [1] closed
+Sep 10 09:21 : player: played "https://i-radio.info:8055/radio"
+Sep 10 09:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:21 : client: [0] opened from [::1]:46518
+Sep 10 09:21 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 10 09:21 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 10 09:22 : client: [0] closed
+Sep 10 09:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:22 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:1,0": Device or resource busy
+Sep 10 09:22 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:1,0": Device or resource busy
+Sep 10 09:22 : player: problems opening audio device while playing "https://i-radio.info:8055/radio"
+Sep 10 09:23 : exception: Failed to commit /home/pxl/.config/mpd/state: File exists
+Sep 10 09:23 : player: played "https://i-radio.info:8055/radio"
+Sep 10 09:23 : player: played "https://i-radio.info:8055/radio"
+Sep 10 09:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:23 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: Master
+Sep 10 09:23 : client: [0] opened from [::1]:46526
+Sep 10 09:24 : client: [0] closed
+Sep 10 09:24 : player: played "https://i-radio.info:8055/radio"
+Sep 10 09:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:24 : config: option 'mixer_device' on line 88 was not recognized
+Sep 10 09:24 : config: option 'mixer_control' on line 89 was not recognized
+Sep 10 09:24 : config: option 'mixer_index' on line 90 was not recognized
+Sep 10 09:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:24 : client: [0] opened from [::1]:46534
+Sep 10 09:26 : client: [0] closed
+Sep 10 09:26 : player: played "https://i-radio.info:8055/radio"
+Sep 10 09:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:26 : client: [0] opened from [::1]:46538
+Sep 10 09:28 : client: [0] closed
+Sep 10 09:28 : client: [1] opened from [::1]:46540
+Sep 10 09:28 : player: played "https://i-radio.info:8055/radio"
+Sep 10 09:34 : client: [1] closed
+Sep 10 09:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:43 : client: [0] opened from [::1]:50674
+Sep 10 09:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:43 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:43 : ffmpeg: No audio stream inside
+Sep 10 09:43 : exception: Failed to decode http://www.partyviberadio.com:8000/listen.pls?sid=2
+Sep 10 09:43 : player: played "http://www.partyviberadio.com:8000/listen.pls?sid=2"
+Sep 10 09:43 : exception: Failed to decode http://www.partyviberadio.com:8000/listen.pls?sid=2
+Sep 10 09:45 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:45 : ffmpeg: No audio stream inside
+Sep 10 09:45 : exception: Failed to decode http://www.partyviberadio.com:8000/listen.pls?sid=2
+Sep 10 09:45 : player: played "http://www.partyviberadio.com:8000/listen.pls?sid=2"
+Sep 10 09:45 : exception: Failed to decode http://www.partyviberadio.com:8000/listen.pls?sid=2
+Sep 10 09:45 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:45 : ffmpeg: No audio stream inside
+Sep 10 09:45 : exception: Failed to decode http://www.partyviberadio.com:8000/listen.pls?sid=2
+Sep 10 09:45 : player: played "http://www.partyviberadio.com:8000/listen.pls?sid=2"
+Sep 10 09:45 : exception: Failed to decode http://www.partyviberadio.com:8000/listen.pls?sid=2
+Sep 10 09:47 : client: [0] closed
+Sep 10 09:47 : client: [1] opened from [::1]:50712
+Sep 10 09:47 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:47 : ffmpeg: No audio stream inside
+Sep 10 09:47 : exception: Failed to decode http://www.partyviberadio.com:8000/listen.pls?sid=2
+Sep 10 09:47 : player: played "http://www.partyviberadio.com:8000/listen.pls?sid=2"
+Sep 10 09:47 : exception: Failed to decode http://www.partyviberadio.com:8000/listen.pls?sid=2
+Sep 10 09:47 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:47 : ffmpeg: No audio stream inside
+Sep 10 09:47 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:47 : player: played "http://198.50.156.92:8075/listen.pls?sid=1"
+Sep 10 09:47 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:47 : client: [1] closed
+Sep 10 09:47 : client: [2] opened from [::1]:50734
+Sep 10 09:48 : client: [2] closed
+Sep 10 09:48 : client: [3] opened from [::1]:50736
+Sep 10 09:48 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:48 : ffmpeg: No audio stream inside
+Sep 10 09:48 : exception: Failed to decode http://www.partyviberadio.com:8000/listen.pls?sid=2
+Sep 10 09:48 : player: played "http://www.partyviberadio.com:8000/listen.pls?sid=2"
+Sep 10 09:48 : exception: Failed to decode http://www.partyviberadio.com:8000/listen.pls?sid=2
+Sep 10 09:48 : faad_decoder: error decoding AAC stream: Invalid number of channels
+Sep 10 09:48 : player: played "http://uk3.internet-radio.com:8405/live"
+Sep 10 09:48 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:48 : ffmpeg: No audio stream inside
+Sep 10 09:48 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:48 : player: played "http://198.50.156.92:8075/listen.pls?sid=1"
+Sep 10 09:48 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:48 : ffmpeg: No audio stream inside
+Sep 10 09:48 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:48 : player: played "http://198.50.156.92:8075/listen.pls?sid=1"
+Sep 10 09:48 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:48 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:48 : ffmpeg: No audio stream inside
+Sep 10 09:48 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:48 : player: played "http://198.50.156.92:8075/listen.pls?sid=1"
+Sep 10 09:48 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:48 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:48 : ffmpeg: No audio stream inside
+Sep 10 09:48 : exception: Failed to decode http://www.partyviberadio.com:8000/listen.pls?sid=2
+Sep 10 09:48 : player: played "http://www.partyviberadio.com:8000/listen.pls?sid=2"
+Sep 10 09:48 : exception: Failed to decode http://www.partyviberadio.com:8000/listen.pls?sid=2
+Sep 10 09:49 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:49 : ffmpeg: No audio stream inside
+Sep 10 09:49 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:49 : player: played "http://198.50.156.92:8075/listen.pls?sid=1"
+Sep 10 09:49 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:49 : client: [3] closed
+Sep 10 09:49 : client: [4] opened from [::1]:50776
+Sep 10 09:49 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:49 : ffmpeg: No audio stream inside
+Sep 10 09:49 : exception: Failed to decode http://www.partyviberadio.com:8000/listen.pls?sid=2
+Sep 10 09:49 : player: played "http://www.partyviberadio.com:8000/listen.pls?sid=2"
+Sep 10 09:49 : exception: Failed to decode http://www.partyviberadio.com:8000/listen.pls?sid=2
+Sep 10 09:49 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:49 : ffmpeg: No audio stream inside
+Sep 10 09:49 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:49 : player: played "http://198.50.156.92:8075/listen.pls?sid=1"
+Sep 10 09:49 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:49 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:49 : ffmpeg: No audio stream inside
+Sep 10 09:49 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:49 : player: played "http://198.50.156.92:8075/listen.pls?sid=1"
+Sep 10 09:49 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:49 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:49 : ffmpeg: No audio stream inside
+Sep 10 09:49 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:49 : player: played "http://198.50.156.92:8075/listen.pls?sid=1"
+Sep 10 09:49 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:50 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:50 : ffmpeg: No audio stream inside
+Sep 10 09:50 : exception: Failed to decode http://www.partyviberadio.com:8000/listen.pls?sid=2
+Sep 10 09:50 : player: played "http://www.partyviberadio.com:8000/listen.pls?sid=2"
+Sep 10 09:50 : exception: Failed to decode http://www.partyviberadio.com:8000/listen.pls?sid=2
+Sep 10 09:50 : client: [5] opened from [::1]:50808
+Sep 10 09:50 : client: [4] closed
+Sep 10 09:50 : client: [5] closed
+Sep 10 09:50 : client: [6] opened from [::1]:50812
+Sep 10 09:50 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:50 : ffmpeg: No audio stream inside
+Sep 10 09:50 : exception: Failed to decode http://www.partyviberadio.com:8000/listen.pls?sid=2
+Sep 10 09:50 : player: played "http://www.partyviberadio.com:8000/listen.pls?sid=2"
+Sep 10 09:50 : exception: Failed to decode http://www.partyviberadio.com:8000/listen.pls?sid=2
+Sep 10 09:50 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:50 : ffmpeg: No audio stream inside
+Sep 10 09:50 : exception: Failed to decode http://www.partyviberadio.com:8000/listen.pls?sid=2
+Sep 10 09:50 : player: played "http://www.partyviberadio.com:8000/listen.pls?sid=2"
+Sep 10 09:50 : exception: Failed to decode http://www.partyviberadio.com:8000/listen.pls?sid=2
+Sep 10 09:50 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:50 : ffmpeg: No audio stream inside
+Sep 10 09:50 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:50 : player: played "http://198.50.156.92:8075/listen.pls?sid=1"
+Sep 10 09:50 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:51 : client: [6] closed
+Sep 10 09:51 : client: [7] opened from [::1]:50836
+Sep 10 09:51 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:51 : ffmpeg: No audio stream inside
+Sep 10 09:51 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:51 : player: played "http://198.50.156.92:8075/listen.pls?sid=1"
+Sep 10 09:51 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:51 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 09:51 : ffmpeg: No audio stream inside
+Sep 10 09:51 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:51 : player: played "http://198.50.156.92:8075/listen.pls?sid=1"
+Sep 10 09:51 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 09:51 : client: [7] closed
+Sep 10 09:51 : client: [8] opened from [::1]:50850
+Sep 10 10:13 : client: [8] closed
+Sep 10 10:13 : client: [9] opened from [::1]:50876
+Sep 10 10:17 : client: [9] closed
+Sep 10 10:17 : client: [10] opened from [::1]:50898
+Sep 10 10:17 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 10:17 : ffmpeg: No audio stream inside
+Sep 10 10:17 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 10:17 : player: played "http://198.50.156.92:8075/listen.pls?sid=1"
+Sep 10 10:17 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 10:17 : exception: Failed to decode http://uk3.internet-radio.com:8405/live; Invalid channel count: 0
+Sep 10 10:17 : player: played "http://uk3.internet-radio.com:8405/live"
+Sep 10 10:17 : exception: Failed to decode http://uk3.internet-radio.com:8405/live; Invalid channel count: 0
+Sep 10 10:17 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 10:17 : ffmpeg: No audio stream inside
+Sep 10 10:17 : exception: Failed to decode http://198.50.156.92:8075/listen.pls?sid=1
+Sep 10 10:17 : player: played "http://198.50.156.92:8075/listen.pls?sid=1"
+Sep 10 10:19 : player: played "http://198.50.156.92:8075"
+Sep 10 10:20 : exception: Failed to open "output from ALSA(TEST)" (alsa); Failed to open ALSA device "hw:1,0": Device or resource busy
+Sep 10 10:20 : exception: Failed to open "output from ALSA(TEST)" (alsa); Failed to open ALSA device "hw:1,0": Device or resource busy
+Sep 10 10:20 : player: problems opening audio device while playing "https://i-radio.info:8055/radio"
+Sep 10 10:20 : player: played "http://uk6.internet-radio.com:8465/"
+Sep 10 10:23 : client: [10] closed
+Sep 10 10:23 : client: [11] opened from [::1]:50974
+Sep 10 10:24 : exception: Failed to open "output from ALSA(TEST)" (alsa); Failed to open ALSA device "hw:1,0": Device or resource busy
+Sep 10 10:24 : exception: Failed to open "output from ALSA(TEST)" (alsa); Failed to open ALSA device "hw:1,0": Device or resource busy
+Sep 10 10:24 : player: problems opening audio device while playing "http://ca8.rcast.net:8018/"
+Sep 10 10:24 : player: played "http://ca8.rcast.net:8018/"
+Sep 10 10:24 : client: [11] closed
+Sep 10 10:24 : client: [12] opened from [::1]:50986
+Sep 10 10:24 : client: [12] closed
+Sep 10 10:24 : client: [13] opened from [::1]:50988
+Sep 10 10:24 : player: played "http://uk6.internet-radio.com:8465/"
+Sep 10 10:26 : client: [13] closed
+Sep 10 10:26 : client: [14] opened from [::1]:51018
+Sep 10 10:26 : ffmpeg/lrc: Format lrc detected only with low score of 5, misdetection possible!
+Sep 10 10:26 : ffmpeg: No audio stream inside
+Sep 10 10:26 : exception: Failed to decode http://46.165.208.21:8270/listen.pls?sid=1
+Sep 10 10:26 : player: played "http://46.165.208.21:8270/listen.pls?sid=1"
+Sep 10 10:26 : exception: Failed to decode http://46.165.208.21:8270/listen.pls?sid=1
+Sep 10 10:27 : client: [14] closed
+Sep 10 10:27 : client: [15] opened from [::1]:51024
+Sep 10 10:30 : client: [15] closed
+Sep 10 10:30 : client: [16] opened from [::1]:51034
+Sep 10 10:30 : player: played "http://93.100.61.75:8000/"
+Sep 10 10:31 : client: [16] closed
+Sep 10 10:33 : client: [17] opened from [::1]:51106
+Sep 10 10:33 : player: played "http://46.165.208.21:8270"
+Sep 10 10:35 : client: [17] closed
+Sep 10 10:38 : client: [18] opened from [::1]:51148
+Sep 10 10:39 : client: [18] closed
+Sep 10 10:39 : client: [19] opened from 127.0.0.1:56424
+Sep 10 10:40 : client: [19] closed
+Sep 10 10:40 : client: [20] opened from 127.0.0.1:56426
+Sep 10 10:40 : client: [20] closed
+Sep 10 10:41 : client: [21] opened from [::1]:51162
+Sep 10 10:41 : client: [21] closed
+Sep 10 10:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 10:44 : client: [0] opened from [::1]:51174
+Sep 10 10:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 10:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 10:45 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Sep 10 10:45 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Sep 10 10:48 : player: played "http://46.165.208.21:8270"
+Sep 10 10:48 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Sep 10 10:49 : client: [0] closed
+Sep 10 10:49 : client: [1] opened from [::1]:51184
+Sep 10 10:50 : client: [1] closed
+Sep 10 10:50 : client: [2] opened from [::1]:51186
+Sep 10 10:50 : client: [2] closed
+Sep 10 10:50 : client: [3] opened from [::1]:51188
+Sep 10 10:51 : client: [3] closed
+Sep 10 10:52 : client: [4] opened from [::1]:51190
+Sep 10 10:52 : client: [4] closed
+Sep 10 10:52 : client: [5] opened from [::1]:51192
+Sep 10 10:53 : client: [5] closed
+Sep 10 10:53 : client: [6] opened from [::1]:51194
+Sep 10 10:53 : client: [6] closed
+Sep 10 10:53 : client: [7] opened from [::1]:51196
+Sep 10 10:53 : client: [7] closed
+Sep 10 10:54 : player: played "http://46.165.208.21:8270"
+Sep 10 15:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 15:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 15:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 15:34 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Sep 10 15:34 : client: [0] opened from [::1]:46966
+Sep 10 15:38 : client: [0] closed
+Sep 10 15:38 : client: [1] opened from [::1]:47006
+Sep 10 15:39 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Sep 10 15:39 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Sep 10 15:40 : client: [1] closed
+Sep 10 15:40 : client: [2] opened from [::1]:47012
+Sep 10 15:40 : client: [2] closed
+Sep 10 15:40 : client: [3] opened from [::1]:47014
+Sep 10 15:40 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Sep 10 15:41 : client: [3] closed
+Sep 10 15:41 : client: [4] opened from [::1]:47018
+Sep 10 15:42 : client: [4] closed
+Sep 10 15:42 : client: [5] opened from [::1]:47024
+Sep 10 15:42 : client: [5] closed
+Sep 10 15:42 : client: [6] opened from [::1]:47026
+Sep 10 15:42 : client: [6] closed
+Sep 10 15:44 : client: [7] opened from [::1]:47028
+Sep 10 15:44 : client: [7] closed
+Sep 10 15:44 : client: [8] opened from [::1]:47030
+Sep 10 15:44 : client: [8] closed
+Sep 10 15:46 : client: [9] opened from [::1]:47032
+Sep 10 15:46 : client: [9] closed
+Sep 10 15:49 : client: [10] opened from [::1]:47070
+Sep 10 15:49 : client: [10] closed
+Sep 10 15:52 : client: [11] opened from [::1]:47196
+Sep 10 15:53 : client: [11] closed
+Sep 10 15:53 : client: [12] opened from [::1]:47198
+Sep 10 15:53 : client: [12] closed
+Sep 10 15:53 : client: [13] opened from [::1]:47200
+Sep 10 15:54 : client: [13] closed
+Sep 10 15:54 : client: [14] opened from [::1]:47202
+Sep 10 15:54 : client: [14] closed
+Sep 10 15:54 : client: [15] opened from [::1]:47204
+Sep 10 15:55 : client: [15] closed
+Sep 10 15:55 : client: [16] opened from [::1]:47206
+Sep 10 15:57 : player: played "http://ca8.rcast.net:8018/"
+Sep 10 15:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 15:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 15:58 : client: [0] opened from [::1]:47238
+Sep 10 15:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 15:58 : client: [0] closed
+Sep 10 15:58 : client: [1] opened from [::1]:47240
+Sep 10 15:58 : player: played "http://ca8.rcast.net:8018/"
+Sep 10 15:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 15:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 15:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 15:58 : client: [0] opened from [::1]:47252
+Sep 10 15:58 : client: [0] closed
+Sep 10 15:58 : client: [1] opened from [::1]:47254
+Sep 10 15:59 : player: played "http://ca8.rcast.net:8018/"
+Sep 10 15:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 15:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 15:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 15:59 : client: [0] opened from [::1]:47270
+Sep 10 16:05 : client: [0] closed
+Sep 10 16:05 : client: [1] opened from [::1]:49332
+Sep 10 16:06 : player: played "http://ca8.rcast.net:8018/"
+Sep 10 16:07 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Sep 10 16:08 : client: [1] closed
+Sep 10 16:08 : client: [2] opened from [::1]:49336
+Sep 10 16:09 : client: [2] closed
+Sep 10 16:09 : client: [3] opened from [::1]:49344
+Sep 10 16:09 : client: [3] closed
+Sep 10 16:09 : client: [4] opened from [::1]:49346
+Sep 10 16:10 : client: [4] closed
+Sep 10 16:10 : client: [5] opened from [::1]:49348
+Sep 10 16:15 : client: [5] closed
+Sep 10 16:15 : client: [6] opened from [::1]:49416
+Sep 10 16:18 : client: [6] closed
+Sep 10 16:18 : client: [7] opened from [::1]:49418
+Sep 10 16:22 : client: [7] closed
+Sep 10 16:22 : client: [8] opened from [::1]:49420
+Sep 10 16:22 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:22 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:23 : client: [8] closed
+Sep 10 16:23 : client: [9] opened from [::1]:49422
+Sep 10 16:23 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:23 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:23 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:23 : client: [9] closed
+Sep 10 16:23 : client: [10] opened from [::1]:49424
+Sep 10 16:23 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : client: [10] closed
+Sep 10 16:25 : client: [11] opened from [::1]:49426
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : exception: Failed to open /home/pxl/.config/mpd/playlists: No such file or directory
+Sep 10 16:25 : client: [11] closed
+Sep 10 16:25 : player: played "http://93.100.61.75:8000/"
+Sep 10 16:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 16:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 16:25 : client: [0] opened from [::1]:49430
+Sep 10 16:25 : client: [0] closed
+Sep 10 16:26 : client: [1] opened from [::1]:49432
+Sep 10 16:26 : player: played "http://93.100.61.75:8000/"
+Sep 10 16:26 : client: [1] closed
+Sep 11 09:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 09:11 : client: [0] opened from [::1]:40356
+Sep 11 09:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 09:57 : player: played "http://93.100.61.75:8000/"
+Sep 11 10:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 10:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 10:01 : client: [0] opened from [::1]:40494
+Sep 11 10:02 : client: [0] closed
+Sep 11 10:02 : client: [1] opened from [::1]:40496
+Sep 11 10:31 : client: [1] closed
+Sep 11 10:31 : client: [2] opened from [::1]:40500
+Sep 11 10:31 : client: [2] closed
+Sep 11 10:31 : client: [3] opened from [::1]:40502
+Sep 11 10:31 : client: [3] closed
+Sep 11 10:31 : client: [4] opened from [::1]:40504
+Sep 11 10:41 : client: [4] closed
+Sep 11 11:52 : client: [5] opened from [::1]:41102
+Sep 11 12:40 : client: [5] closed
+Sep 11 12:42 : client: [6] opened from [::1]:43390
+Sep 11 12:42 : player: played "http://46.165.208.21:8270"
+Sep 11 12:42 : client: [6] closed
+Sep 14 08:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 14 08:12 : client: [0] opened from [::1]:37014
+Sep 14 08:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 14 08:27 : client: [0] closed
+Sep 14 08:32 : client: [1] opened from [::1]:37106
+Sep 14 08:52 : player: played "http://93.100.61.75:8000/"
+Sep 14 10:16 : client: [1] closed
+Sep 14 10:16 : client: [2] opened from [::1]:41364
+Sep 14 10:16 : client: [2] closed
+Sep 14 12:05 : client: [3] opened from [::1]:41366
+Sep 14 13:04 : client: [3] closed
+Sep 14 13:34 : client: [4] opened from [::1]:41442
+Sep 14 13:39 : client: [4] closed
+Sep 14 15:22 : player: played "http://www.partyviberadio.com:8000"
+Sep 15 08:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 08:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 08:10 : exception: Failed to decode http://www.partyviberadio.com:8000; CURL failed: Resolving timed out after 10000 milliseconds
+Sep 15 08:10 : player: played "http://www.partyviberadio.com:8000"
+Sep 15 08:46 : client: [0] opened from [::1]:56430
+Sep 15 08:46 : exception: Failed to decode http://93.100.61.75:8000/; CURL failed: Failed to connect to 93.100.61.75 port 8000: Network is unreachable
+Sep 15 08:46 : player: played "http://93.100.61.75:8000/"
+Sep 15 08:46 : exception: Failed to decode http://93.100.61.75:8000/; CURL failed: Connection timed out after 10009 milliseconds
+Sep 15 08:46 : player: played "http://93.100.61.75:8000/"
+Sep 15 08:46 : exception: Failed to decode http://93.100.61.75:8000/; CURL failed: Connection timed out after 10009 milliseconds
+Sep 15 08:46 : client: [1] opened from [::1]:56438
+Sep 15 08:46 : client: [0] closed
+Sep 15 08:46 : exception: Failed to decode http://46.165.208.21:8270; CURL failed: Failed to connect to 46.165.208.21 port 8270: Network is unreachable
+Sep 15 08:46 : player: played "http://46.165.208.21:8270"
+Sep 15 08:46 : player: played "http://www.partyviberadio.com:8000"
+Sep 15 08:46 : client: [2] opened from [::1]:56442
+Sep 15 08:46 : client: [1] closed
+Sep 15 08:46 : client: [3] opened from [::1]:56444
+Sep 15 08:46 : client: [2] closed
+Sep 15 08:46 : client: [3] closed
+Sep 15 08:46 : exception: Failed to decode http://uk6.internet-radio.com:8465/; CURL failed: Resolving timed out after 10001 milliseconds
+Sep 15 08:46 : player: played "http://uk6.internet-radio.com:8465/"
+Sep 16 08:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 16 08:41 : client: [0] opened from [::1]:50890
+Sep 16 08:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 16 10:08 : client: [0] closed
+Sep 16 10:44 : client: [1] opened from [::1]:52282
+Sep 16 10:50 : player: played "http://93.100.61.75:8000/"
+Sep 16 10:50 : client: [1] closed
+Sep 21 08:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 21 08:42 : client: [0] opened from [::1]:36628
+Sep 21 08:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 21 09:16 : player: played "http://uk6.internet-radio.com:8465/"
+Sep 21 10:39 : client: [0] closed
+Sep 21 12:07 : player: played "http://www.partyviberadio.com:8000"
+Sep 22 08:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 22 08:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 22 08:39 : client: [0] opened from [::1]:41288
+Sep 22 08:39 : player: played "http://www.partyviberadio.com:8000"
+Sep 22 08:39 : client: [0] closed
+Sep 23 08:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 23 10:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 23 13:42 : player: played "http://uk6.internet-radio.com:8465/"
+Sep 24 08:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 24 09:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 24 10:54 : player: played "http://93.100.61.75:8000/"
+Sep 24 11:20 : player: played "http://46.165.208.21:8270"
+Sep 25 08:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 25 08:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 25 09:23 : player: played "http://93.100.61.75:8000/"
+Sep 25 11:19 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Sep 25 11:19 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Sep 25 11:20 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Sep 25 11:20 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Sep 25 11:20 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Sep 25 13:09 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Sep 25 13:09 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Sep 25 13:14 : player: played "http://www.partyviberadio.com:8000"
+Sep 28 08:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 28 08:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 28 09:09 : player: played "http://www.partyviberadio.com:8000"
+Sep 28 13:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 10:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 10:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 11:37 : player: played "http://www.partyviberadio.com:8000"
+Oct 01 14:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 02 08:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 02 08:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 02 09:10 : player: played "http://www.partyviberadio.com:8000"
+Oct 02 09:17 : player: played "http://www.partyviberadio.com:8000"
+Oct 02 10:28 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 02 10:29 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 02 10:29 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 02 10:29 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 02 10:29 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 02 10:29 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 02 10:29 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 02 10:29 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 02 10:29 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 02 10:29 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 02 11:40 : player: played "http://www.partyviberadio.com:8000"
+Oct 08 13:27 : player: played "http://www.partyviberadio.com:8000"
+Oct 16 08:53 : player: played "http://www.partyviberadio.com:8000"
+Dec 10 13:47 : player: played "http://46.165.208.21:8270"
+Feb 17 08:27 : player: played "http://46.165.208.21:8270"
+Apr 15 13:54 : player: played "http://www.partyviberadio.com:8000"
+Nov 18 08:46 : exception: Failed to open "output from ALSA(TEST)" (alsa); Failed to open ALSA device "hw:1,0": Device or resource busy
+Nov 18 08:46 : exception: Failed to open "output from ALSA(TEST)" (alsa); Failed to open ALSA device "hw:1,0": Device or resource busy
+Nov 18 08:46 : player: problems opening audio device while playing "http://www.partyviberadio.com:8000"
+Nov 18 08:46 : player: played "http://www.partyviberadio.com:8000"
+Nov 18 08:46 : exception: Failed to open "output from ALSA(TEST)" (alsa); Failed to open ALSA device "hw:1,0": Device or resource busy
+Nov 18 08:46 : exception: Failed to open "output from ALSA(TEST)" (alsa); Failed to open ALSA device "hw:1,0": Device or resource busy
+Nov 18 08:46 : player: problems opening audio device while playing "http://46.165.208.21:8270"
+Nov 18 08:47 : exception: Failed to decode http://93.100.61.75:8000/; CURL failed: Connection timeout after 10007 ms
+Nov 18 08:47 : player: played "http://93.100.61.75:8000/"
+Nov 18 08:47 : exception: Failed to decode http://93.100.61.75:8000/; CURL failed: Connection timeout after 10007 ms
+Nov 18 08:47 : exception: Failed to open "output from ALSA(TEST)" (alsa); Failed to open ALSA device "hw:1,0": Device or resource busy
+Nov 18 08:47 : exception: Failed to open "output from ALSA(TEST)" (alsa); Failed to open ALSA device "hw:1,0": Device or resource busy
+Nov 18 08:47 : player: problems opening audio device while playing "http://46.165.208.21:8270"
+Nov 18 09:05 : exception: Failed to decode http://www.partyviberadio.com:8000; CURL failed: Resolving timed out after 10000 milliseconds
+Nov 18 09:05 : player: played "http://www.partyviberadio.com:8000"
+Nov 18 09:05 : exception: Failed to decode http://www.partyviberadio.com:8000; CURL failed: Resolving timed out after 10000 milliseconds
+Nov 18 09:05 : exception: Failed to decode http://93.100.61.75:8000/; CURL failed: Connection timeout after 10008 ms
+Nov 18 09:05 : player: played "http://93.100.61.75:8000/"
+Nov 18 09:05 : exception: Failed to decode http://93.100.61.75:8000/; CURL failed: Connection timeout after 10008 ms
+Nov 18 09:06 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 18 09:06 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 18 09:06 : player: played "http://www.partyviberadio.com:8000"
+Nov 18 09:06 : player: played "http://46.165.208.21:8270"
+Nov 18 16:32 : player: played "http://46.165.208.21:8270"
+Nov 19 16:40 : player: played "http://46.165.208.21:8270"
+Nov 24 16:28 : player: played "http://46.165.208.21:8270"
+Nov 26 17:22 : player: played "http://46.165.208.21:8270"
+Nov 27 18:32 : player: played "http://46.165.208.21:8270"
+Dec 07 17:52 : player: played "http://46.165.208.21:8270"
+Dec 08 09:07 : exception: Failed to decode http://46.165.208.21:8270; CURL failed: Couldn't connect to server
+Dec 08 09:07 : player: played "http://46.165.208.21:8270"
+Dec 08 09:07 : exception: Failed to decode http://www.partyviberadio.com:8000; CURL failed: Could not resolve host: www.partyviberadio.com
+Dec 08 09:07 : player: played "http://www.partyviberadio.com:8000"
+Dec 08 09:07 : exception: Failed to decode http://uk6.internet-radio.com:8465/; CURL failed: Could not resolve host: uk6.internet-radio.com
+Dec 08 09:07 : player: played "http://uk6.internet-radio.com:8465/"
+Dec 08 09:15 : exception: Failed to decode http://uk6.internet-radio.com:8465/; CURL failed: Failed to connect to uk6.internet-radio.com port 8465 after 334 ms: Connection refused
+Dec 08 09:15 : player: played "http://uk6.internet-radio.com:8465/"
+Dec 08 09:15 : exception: Failed to decode http://uk6.internet-radio.com:8465/; CURL failed: Failed to connect to uk6.internet-radio.com port 8465 after 334 ms: Connection refused
+Dec 08 09:15 : exception: Failed to decode http://93.100.61.75:8000/; CURL failed: Connection timeout after 10829 ms
+Dec 08 09:15 : player: played "http://93.100.61.75:8000/"
+Dec 08 09:15 : exception: Failed to decode http://93.100.61.75:8000/; CURL failed: Connection timeout after 10829 ms
+Dec 08 09:16 : exception: Failed to decode http://uk6.internet-radio.com:8465/; CURL failed: Failed to connect to uk6.internet-radio.com port 8465 after 123 ms: Connection refused
+Dec 08 09:16 : player: played "http://uk6.internet-radio.com:8465/"
+Dec 08 09:16 : exception: Failed to decode http://uk6.internet-radio.com:8465/; CURL failed: Failed to connect to uk6.internet-radio.com port 8465 after 123 ms: Connection refused
+Dec 08 09:17 : exception: Failed to decode http://uk6.internet-radio.com:8465/; CURL failed: Failed to connect to uk6.internet-radio.com port 8465 after 52 ms: Connection refused
+Dec 08 09:17 : player: played "http://uk6.internet-radio.com:8465/"
+Dec 08 09:17 : exception: Failed to decode http://93.100.61.75:8000/; CURL failed: Connection timeout after 10050 ms
+Dec 08 09:17 : player: played "http://93.100.61.75:8000/"
+Dec 08 09:18 : exception: Failed to decode http://93.100.61.75:8000/; CURL failed: Connection timeout after 10105 ms
+Dec 08 09:18 : player: played "http://93.100.61.75:8000/"
+Dec 08 09:18 : exception: Failed to decode http://93.100.61.75:8000/; CURL failed: Connection timeout after 10105 ms
+Dec 08 09:18 : player: played "http://46.165.208.21:8270"
+Dec 19 10:24 : exception: Failed to decode http://uk6.internet-radio.com:8465/; CURL failed: Failed to connect to uk6.internet-radio.com port 8465 after 333 ms: Connection refused
+Dec 19 10:24 : player: played "http://uk6.internet-radio.com:8465/"
+Dec 19 10:24 : exception: Failed to decode http://uk6.internet-radio.com:8465/; CURL failed: Failed to connect to uk6.internet-radio.com port 8465 after 333 ms: Connection refused
+Dec 19 10:25 : player: played "http://46.165.208.21:8270"
+Apr 06 13:45 : exception: Failed to decode http://93.100.61.75:8000/; CURL failed: Connection timeout after 10958 ms
+Apr 06 13:45 : player: played "http://93.100.61.75:8000/"
+Apr 06 13:45 : exception: Failed to decode http://93.100.61.75:8000/; CURL failed: Connection timeout after 10958 ms
+Apr 06 13:45 : exception: Failed to decode http://uk6.internet-radio.com:8465/; CURL failed: Failed to connect to uk6.internet-radio.com port 8465 after 231 ms: Connection refused
+Apr 06 13:45 : player: played "http://uk6.internet-radio.com:8465/"
+Apr 06 13:45 : exception: Failed to decode http://uk6.internet-radio.com:8465/; CURL failed: Failed to connect to uk6.internet-radio.com port 8465 after 231 ms: Connection refused
+Apr 06 13:45 : exception: Failed to decode http://uk6.internet-radio.com:8465/; CURL failed: Failed to connect to uk6.internet-radio.com port 8465 after 71 ms: Connection refused
+Apr 06 13:45 : player: played "http://uk6.internet-radio.com:8465/"
+Apr 06 13:46 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 06 13:47 : exception: Failed to decode http://www.partyviberadio.com:8000; CURL failed: Could not resolve host: www.partyviberadio.com
+Apr 06 13:47 : player: played "http://www.partyviberadio.com:8000"
+Apr 06 13:47 : exception: Failed to decode http://www.partyviberadio.com:8000; CURL failed: Could not resolve host: www.partyviberadio.com
+Apr 06 13:47 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 06 13:47 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 06 13:47 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 06 14:01 : player: played "http://46.165.208.21:8270"

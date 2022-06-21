@@ -1,0 +1,67 @@
+
+! special
+*.foreground:   #7ea2b4
+*.background:   #161b1d
+*.cursorColor:  #7ea2b4
+
+! black
+*.color0:       #161b1d
+*.color8:       #5a7b8c
+
+! red
+*.color1:       #d22d72
+*.color9:       #d22d72
+
+! green
+*.color2:       #568c3b
+*.color10:      #568c3b
+
+! yellow
+*.color3:       #8a8a0f
+*.color11:      #8a8a0f
+
+! blue
+*.color4:       #257fad
+*.color12:      #257fad
+
+! magenta
+*.color5:       #5d5db1
+*.color13:      #5d5db1
+
+! cyan
+*.color6:       #2d8f6f
+*.color14:      #2d8f6f
+
+! white
+*.color7:       #7ea2b4
+*.color15:      #ebf8ff
+
+URxvt*saveLines: 5000
+
+
+URxvt*scrollBar: false
+
+!URxvt.font: xft:xos4 Terminus:size=8:hinting=True
+
+!URxvt.font:            xft:Input mono:size=9:autohint=false:antialias=true:hinting=true:style=regular
+!URxvt.boldFont:        xft:Terminus:size=10:bold:autohint=true:antialias=true:hinting=true:style=regular
+!URxvt.italicFont:      xft:Terminus:italic:size=10:autohint=true:style=regular
+!URxvt.boldItalicFont:  xft:Terminus:bold:italic:size=10:autohint=true:style=regular
+!URxvt.termName: xterm
+
+URxvt.font:            xft:Inputmono Nerd Font:size=9:autohint=true:style=regular
+#URxvt.font:		xft:symbola:size=10:minspace=False
+
+URxvt*depth: 32
+URxvt.background: rgba:0001/0001/0001/dddd
+!URxvt*background: [70]#000000
+
+URxvt.keysym.Control-Up:     \033[1;5A
+URxvt.keysym.Control-Down:   \033[1;5B
+URxvt.keysym.Control-Left:   \033[1;5D
+URxvt.keysym.Control-Right:  \033[1;5C
+! Отключаем ctrl+shift хоткей
+URxvt.iso14755: false
+! ctrl+shift+C/V 
+URxvt.keysym.M-v: eval:paste_clipboard
+URxvt.keysym.M-c: eval:selection_to_clipboard

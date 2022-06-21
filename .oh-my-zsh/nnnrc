@@ -1,0 +1,6 @@
+export NNN_BMS='u:/home/pxl;d:~/down/'
+export NNN_SSHFS="sshfs -o follow_symlinks" # заставляет sshfs следовать по символьным ссылкам
+export NNN_COLORS="2136"                    # разные цвета для разных контекстов (см. man)
+export NNN_OPS_PROG=0  
+# Немного магии
+[ -n "$NNNLVL" ] && PS1="N$NNNLVL $PS1"
